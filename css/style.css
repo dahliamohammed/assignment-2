@@ -1,0 +1,20 @@
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bolder;
+    color:  rgb(0, 0, 0);
+}
+ 
+
+p{
+    font-family: Times New Roman;
+    font-size: 35px;
+    color:  rgb(0, 0, 0);
+}
+button{
+    transition: all .5s;
+}
+button:hover{
+  background-color: palevioletred !important; 
+
+}
